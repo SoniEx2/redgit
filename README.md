@@ -23,3 +23,6 @@ Forking a repo is as simple as making a new reddit comment on the repo (main pos
 
 ### How does cloning work?
 To clone, you clone reddit://subreddit/post/user (which follows the subreddit/repo/user hierarchy, instead of the user/repo hierarchy you're used to.)
+
+## Donations
+Bitcoin address: 16qdharsWTvnBg4LcnvyHRZgM5tj33eGT3
